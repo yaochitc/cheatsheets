@@ -1,5 +1,8 @@
 ## Prophet
 
+### Documents
+https://facebook.github.io/prophet/docs/quick_start.html
+
 ### Full Example
 
 ###### Import the module
